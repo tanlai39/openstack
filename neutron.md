@@ -437,7 +437,7 @@ tunnel_types = vxlan
 l2_population = true
 [ovs]
 bridge_mappings = provider-network-01:provider-br-01
-local_ip = 12.12.12.21
+local_ip = 13.28.4.101
 [securitygroup]
 enable_security_group = true
 firewall_driver = openvswitch
